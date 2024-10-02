@@ -1,0 +1,1 @@
+Presigned URL: https://ds2022-xqd7aq.s3.amazonaws.com/file.gif?AWSAccessKeyId=AKIA4SYAMKKOM3ZSAKQX&Signature=Dz03DJXpPSBM7iZst%2FNKQjKtq7Q%3D&Expires=1728432655
